@@ -16,7 +16,7 @@ In the [Java Advanced](https://softuni.bg/trainings/3485/java-advanced-september
 - **Generics** - generic classes and interfaces ; generic methods ; type erasure and type parameter bounds
 - **Iterators and Comparators** 
 
-**Certificate:**(https://softuni.bg/certificates/details/114528/930fad87)
+**Certificate:** https://softuni.bg/certificates/details/114528/930fad87
 
 
 
